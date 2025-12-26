@@ -1,1 +1,1 @@
-# Blogs
+# python project
